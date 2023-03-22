@@ -1,0 +1,22 @@
+# 开发环境配置
+server:
+  # 服务器的HTTP端口，默认为8080
+  port: 7003
+
+spring:
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 50MB
+  #模板引擎配置
+  thymeleaf:
+    cache: false
+    suffix: .html
+    prefix: classpath:/templates/
+    encoding: UTF-8
+  #配置静态资源
+  mvc:
+    static-path-pattern: /**
+  resources:
+    static-locations: classpath:/META-INF/resources/,classpath:/resources/,classpath:/static/,classpath:/public/
+

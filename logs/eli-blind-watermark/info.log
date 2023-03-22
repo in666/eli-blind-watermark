@@ -1,0 +1,20 @@
+20:15:31.901 [main] INFO  com.eli.Application - [logStarting,55] - Starting Application on Eli with PID 1716 (D:\IdeaProjects\eli-blind-watermark\target\classes started by Eli in D:\IdeaProjects\eli-blind-watermark)
+20:15:31.906 [main] INFO  com.eli.Application - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+20:15:32.824 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-7003"]
+20:15:32.825 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+20:15:32.826 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+20:15:32.958 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+20:15:33.369 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-7003"]
+20:15:33.397 [main] INFO  com.eli.Application - [logStarted,61] - Started Application in 1.888 seconds (JVM running for 4.427)
+20:15:33.400 [main] INFO  com.eli.Application - [main,30] - >>>>>>  The app service started successfully.  >>>>>>  应用服务启动成功！
+20:15:50.718 [http-nio-7003-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+20:17:14.291 [main] INFO  com.eli.Application - [logStarting,55] - Starting Application on Eli with PID 2756 (D:\IdeaProjects\eli-blind-watermark\target\classes started by Eli in D:\IdeaProjects\eli-blind-watermark)
+20:17:14.294 [main] INFO  com.eli.Application - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+20:17:15.059 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-7003"]
+20:17:15.060 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+20:17:15.061 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+20:17:15.134 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+20:17:15.429 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-7003"]
+20:17:15.456 [main] INFO  com.eli.Application - [logStarted,61] - Started Application in 1.641 seconds (JVM running for 2.77)
+20:17:15.459 [main] INFO  com.eli.Application - [main,30] - >>>>>>  The app service started successfully.  >>>>>>  应用服务启动成功！
+20:17:20.268 [http-nio-7003-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
