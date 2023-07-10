@@ -53,13 +53,5 @@ JDK：1.8
 
 * 输出结果为PNG格式时效果最好
 
-## 赞助
-
-* 如果你喜欢这个作品，可请作者喝杯咖啡！谢谢！
-
-  ![alt text](docs/zfb.jpg)
-
-  ![alt text](docs/wx.jpg)
-
 <h2>提示</h2>
 如果遇到了问题，请发邮件至eliyingm@gmail.com。
